@@ -16,11 +16,7 @@ This project demonstrates a basic network simulation using **Cisco Packet Tracer
 - **README.md** - Project Documentation
 
 ## 📊 IP Addressing
-| Device   | Interface     | IP Address     | Subnet Mask     |
-|-----------|---------------|----------------|----------------|
-| Router   | FastEthernet0/0 | 192.168.1.1    | 255.255.255.0  |
-| PC1      | NIC           | 192.168.1.10   | 255.255.255.0  |
-
+![alt text](image.png)
 ## 🚀 Outcome
 ✅ Successfully configured a network with basic routing and connectivity.  
 ✅ Tested communication between devices on different networks.  
